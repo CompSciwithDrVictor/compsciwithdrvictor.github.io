@@ -1,6 +1,7 @@
 ---
 title: "CMPT 125 Intro. to CS & Programming II"
 collection: teaching
+category: lower_division
 type: "Undergraduate course"
 permalink: /teaching/cmpt125
 venue: "Simon Fraser University, School of Computing Science"
@@ -44,7 +45,7 @@ Course Schedule
 | 4     | C basics (Part 3) {::nomarkdown}<ul><li>Returning structs, pointers to functions</li><li>Binary encoding of numbers</li><li>Pseudo-code</li><li>Recursion</li><li>Algorithms & performance</li></ul>{:/} | Learn more about sorting with visualization {::nomarkdown}[<a href="https://visualgo.net/bn/sorting">LINK</a>]{:/} |
 | 5     | Basic algorithms & data structures (Part 1) {::nomarkdown}<ul><li>Big-O notation</li><li>Searching algorithms</li></ul>{:/} | Learn more about searching with visualization {::nomarkdown}[<a href="https://www.cs.usfca.edu/~galles/visualization/Search.html">LINK</a>]{:/} |
 | 6     | Basic algorithms & data structures (Part 2) {::nomarkdown}<ul><li>Sorting algorithms</li></ul>{:/}<br />Abstract data types| Learn more about sorting with visualization {::nomarkdown}[<a href="https://visualgo.net/bn/sorting">LINK</a>]{:/} |
-| 7     | Basic algorithms & data structures (Part 3) {::nomarkdown}<ul><li>Stacks</li></li>Queues</li></ul>{:/} | External readings: {::nomarkdown}<ul><li><a href="https://www.programiz.com/dsa/stack">Stacks</a></li><li><a href="https://www.programiz.com/dsa/queue">Queues</a> (note that their use of the rear index is different from the lectures)</li><li><a href="https://www.programiz.com/dsa/linked-list">Linked lists</a></li></ul>{:/} |
+| 7     | Basic algorithms & data structures (Part 3) {::nomarkdown}<ul><li>Stacks</li><li>Queues</li></ul>{:/} | External readings: {::nomarkdown}<ul><li><a href="https://www.programiz.com/dsa/stack">Stacks</a></li><li><a href="https://www.programiz.com/dsa/queue">Queues</a> (note that their use of the rear index is different from the lectures)</li><li><a href="https://www.programiz.com/dsa/linked-list">Linked lists</a></li></ul>{:/} |
 | 8     | Reading break | - |
 | 9     | Basic algorithms & data structures (Part 4) {::nomarkdown}<ul><li>Linked lists</li></ul>Recursion revisited{:/} | - |
 | 10    | Basic algorithms & data structures (Part 5) {::nomarkdown}<ul><li>Intro to graphs & trees</li><li>Tree traversals & operations</li></ul>{:/} | Additional references to {::nomarkdown}<a href="https://www.programiz.com/dsa/trees">Trees</a>{:/} |

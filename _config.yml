@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : victorcheung
+  bluesky          : victorcheung.bsky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -73,7 +73,7 @@ author:
   youtube          : CompSciwithDrVictor
   zhihu            : # URL
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following is the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
@@ -83,6 +83,13 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+
+# Teaching Category - The following is the list of teaching categories and their headings
+teaching_category:
+  lower_division:
+    title: 'Lower Division Undergrad Courses'
+  upper_division:
+    title: 'Upper Division Undergrad Courses'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -1,6 +1,7 @@
 ---
 title: "CMPT 225 Data Structures & Programming"
 collection: teaching
+category: lower_division
 type: "Undergraduate course"
 permalink: /teaching/cmpt225
 venue: "Simon Fraser University, School of Computing Science"

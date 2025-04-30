@@ -1,6 +1,7 @@
 ---
 title: "CMPT 263 Introduction to Human-Centered Computing"
 collection: teaching
+category: lower_division
 type: "Undergraduate course"
 permalink: /teaching/cmpt263
 venue: "Simon Fraser University, School of Computing Science"
