@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publications/2019-10-01-magtroller
 excerpt: 'This paper explored the mobile gameplay context by implementing an interface that uses rotatory gestures from a magnetic ring as input, and compared with some other typical ways of input.'
-date: 2019-03-17
+date: 2019-10-01
 venue: 'Human-Computer Interaction with Mobile Devices and Services'
 paperurl: '../files/publications/2019/Tangible_Around-Device_Interaction-MobileHCI2019.pdf'
 citation: 'V. Cheung and A. Girouard. 2019. "Tangible Around-Device Interaction Using Rotatory Gestures with a Magnetic Ring". In Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI''19). ACMachinery, New York, NY, USA, Article 26, 1–8. https://doi.org/10.1145/3338286.3340137'
