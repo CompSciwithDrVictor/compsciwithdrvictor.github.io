@@ -1,6 +1,6 @@
 ---
 title: "Floating Keyboard"
-excerpt: "My keyboard setup... looks super cool but it is set up this way not because the way you might think.<br/><img src='/images/floatingKeyboard04.jpg'>"
+excerpt: "My keyboard setup... looks super cool but it is set up this way not because the way you might think.<br/><img src='/images/floatingKeyboard01.jpg'>"
 collection: projects
 ---
 
